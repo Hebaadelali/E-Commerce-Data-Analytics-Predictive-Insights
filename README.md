@@ -3,7 +3,7 @@
 
 ## 🔖 Overview
 
-This project demonstrates a full-cycle e-commerce data analysis solution developed collaboratively using modern data technologies. As the **team leader**, I spearheaded the effort to collect, clean, model, and visualize data to derive actionable business insights and predictive intelligence. The project was organized and tracked through **Notion**, with clear task delegation and transparent collaboration.
+This project demonstrates a full-cycle e-commerce data analysis solution developed collaboratively using modern data technologies. The project was organized and tracked through **Notion**, with clear task delegation and transparent collaboration.
 
 ---
 
